@@ -1,6 +1,6 @@
 <?php
 
 echo('Hello Owinyo John OLendo');
-echo ('Hello Owinyo John Savio');
+echo ('Hello Owinyo John Savio morinyo');
 
 ?>
